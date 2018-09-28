@@ -1,0 +1,11 @@
+8
+
+https://mail.google.com/mail/
+https://mail.google.com/mail/sw.js?7026=1&7020=1&7325=1
+true
+{988ef0a0-c7e2-41a0-bccb-ca1e4975f511}
+0
+1538119874117370
+1538119874192809
+1538119873066741
+#
